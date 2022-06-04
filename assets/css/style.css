@@ -15,14 +15,14 @@ body {
   background: rgb(238, 174, 202);
   background: radial-gradient(
     circle,
-    rgba(238, 174, 202, 1) 0%,
-    rgba(148, 187, 233, 1) 100%
+    rgb(15, 25, 155) 0%,
+    rgb(6, 83, 228) 100%
   );
 }
 /*custom scrollbar*/
 ::-webkit-scrollbar {
   width: 6px;
-  background: #acb7e1;
+  background: #000d42;
 }
 ::-webkit-scrollbar-thumb {
   background: #4577af;
